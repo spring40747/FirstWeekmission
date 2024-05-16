@@ -83,12 +83,12 @@ img {
     flex-wrap: wrap;
 }
 .Contnet-ul-li{
-    width: 49.1%;
+/*     width: 49.1%; */
     margin-bottom: 80px;
 }
 .Contnet-ul-li > img{
     border-radius: 8px;
-/*     border:1px solid #F1F1F1;	 */
+    border:1px solid #F1F1F1;	
 }
 .Contnet-ul-li>h2{
     font-size: 28px;
