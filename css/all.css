@@ -34,8 +34,8 @@ footer, header, hgroup, menu, nav, section {
 } */
 
 body {
-	line-height: 1;
-    font-family: "Noto Sans TC", sans-serif;
+	line-height: 1.5;
+    	font-family: "Noto Sans TC", sans-serif;
 }
 
 ol, ul {
@@ -66,8 +66,7 @@ a{
 }
 img {
 	max-width: 100%;
-	height: auto;
-    display: block;
+    	display: block;
 }
 .Container{
     max-width: 1920px;
@@ -84,7 +83,7 @@ img {
     flex-wrap: wrap;
 }
 .Contnet-ul-li{
-    width: 49.1%;
+/*     width: 49.1%; */
     margin-bottom: 80px;
 }
 .Contnet-ul-li > img{
@@ -94,11 +93,10 @@ img {
     font-size: 28px;
     font-weight: 700;
     margin: 16px 0px 8px 16px;
-    line-height: 33.6px;
+    line-height: 2.1;
 }
 .Contnet-ul-li>p{
     font-size: 16px;
-    line-height: 24px;
     padding: 0px 0px 0px 16px;
     color: #919191;
 }
@@ -117,5 +115,4 @@ img {
     border-radius: 16px;
     font-size: 16px;
     padding: 4px 12px;
-    line-height: 24px;
-}
+    }
